@@ -1,4 +1,26 @@
-.cabecalho {
-	height: 200px;
+#cabecalho {
+	height: 100px;
 	background: #f4042e;
 }
+
+#logo {
+	color: white;
+	font-size: 200px;
+
+}
+
+span {
+	color: #961129;
+}
+
+.carousel-item img {
+	width: 1080px;
+	height: 500px;
+}
+
+.carousel-caption {
+	background: black;
+	opacity: 0.5;
+}
+
+ 
