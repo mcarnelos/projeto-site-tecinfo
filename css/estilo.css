@@ -23,4 +23,28 @@ span {
 	opacity: 0.5;
 }
 
- 
+footer {
+	background: #f4042e;
+	height: 100%;
+}
+
+#menu-footer li {
+	list-style: none;
+	float: left;
+}
+
+#menu-footer a {
+	text-decoration: none;
+	margin-top: 20px;
+
+}
+
+#destaques img {
+	padding-bottom: 20px;
+}
+
+#destaques p {
+	width: 200px;
+
+} 
+
